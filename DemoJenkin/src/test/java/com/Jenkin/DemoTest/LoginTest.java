@@ -8,6 +8,7 @@ public class LoginTest
   public void logintest() 
   {
 	  System.out.println("UN & PW validated : loggedin successfully!!!!");
+	  System.out.println("Home page is displayed");
 	  
   }
 }
